@@ -7,7 +7,7 @@
 #include "OTA.h"
 #include "Preferences.h"
 
-
+//修改
 uint8_t Mode_set1, Mode_set2;
 
 void TaskBone( void *pvParameters1 );
